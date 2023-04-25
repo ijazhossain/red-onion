@@ -1,0 +1,25 @@
+.banner-container {
+    background-image: url('../../../assets/images/others/bannerbackground.png');
+    min-height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: -20px 0px;
+
+}
+
+.banner-container input {
+    width: 400px;
+    height: 55px;
+    border: none;
+    color: #b9b9b9;
+    font-size: large;
+
+}
+
+.banner-container button {
+    height: 55px;
+    margin-left: -40px;
+    width: 120px;
+    background-color: #f91944;
+    font-size: large;
+}
