@@ -1,14 +1,18 @@
 import React from 'react';
 import Header from '../Shared/Header/Header';
 import Banner from '../Banner/Banner';
+import Restaurant from '../Restaurant/Restaurant';
+import Navigation from '../Shared/Navigation/Navigation';
+import { Container } from 'react-bootstrap';
 
 const Home = () => {
     return (
-        <div>
+        <Container>
             <Header></Header>
             <Banner></Banner>
-            this is home
-        </div>
+            <Navigation></Navigation>
+            <Restaurant></Restaurant>
+        </Container>
     );
 };
 
