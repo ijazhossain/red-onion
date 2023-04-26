@@ -1,0 +1,12 @@
+.active-link:focus {
+    color: red !important;
+}
+
+.active-link:focus::after {
+    content: '';
+    display: block;
+    height: 2px;
+    background-color: red;
+    width: 30px;
+    margin: 10px auto;
+}

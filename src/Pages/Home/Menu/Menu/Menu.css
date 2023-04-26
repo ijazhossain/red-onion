@@ -1,0 +1,53 @@
+.carousel-container {
+    /* background-color: antiquewhite; */
+}
+
+.carousel-indicators {
+    display: none;
+}
+
+.carousel-container img {
+    width: 75%;
+
+}
+
+.counter {
+    border: 1px solid #dbdbdb;
+    border-radius: 30px;
+}
+
+.counter button {
+    font-size: 40px;
+    background-color: white;
+    border: none;
+}
+
+.counter input {
+    border: none;
+    font-size: 40px;
+    width: 40%;
+
+}
+
+.counter input:focus-visible {
+    outline: 0px;
+}
+
+.plus-btn {
+    color: red;
+}
+
+.minus-btn {
+    color: #707070;
+}
+
+.cart-btn {
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    margin-top: 30px;
+    font-size: 20px;
+    background-color: #f91944;
+    border: none;
+
+}
