@@ -1,0 +1,13 @@
+.form-title {
+    border-bottom: 1px solid black;
+}
+
+input,
+textarea {
+    background-color: #f5f5f5;
+}
+
+input[type=submit] {
+    background-color: #f91944;
+    color: white;
+}

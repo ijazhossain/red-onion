@@ -13,7 +13,7 @@ const Menu = () => {
     const [breakfast, setBreakfast] = useState(true);
     const [launch, setLaunch] = useState(false);
     const [dinner, setDinner] = useState(false);
-
+    const [input, setInput] = useState([])
     const foods = useLoaderData();
     const { foodId } = useParams();
     const inputRef = useRef(1)
@@ -40,18 +40,22 @@ const Menu = () => {
 
     const handleAddToCart = (selectedFood) => {
         const exists = cart.find(food => food.id === selectedFood.id);
+        // console.log(exists);
         const quantity = inputRef.current.value
         if (!exists) {
             selectedFood.quantity = quantity;
             setCart([...cart, selectedFood])
+            setInput(...input, selectedFood)
+            toast("Foods added to cart")
 
         } else {
+            exists.quantity = quantity;
             toast("Already add to cart")
         }
 
         addTODb(id, quantity)
     }
-    console.log(cart);
+    // console.log(cart);
     const handleMinus = () => {
         const newValue = inputValue - 1;
         if (newValue <= 0) {
@@ -67,7 +71,7 @@ const Menu = () => {
 
     useEffect(() => {
         const storedCart = getCart()
-        // console.log(storedCart);
+
         const savedCart = []
         for (const id in storedCart) {
             const addedFood = foods.find(food => food.id === id)
@@ -82,10 +86,11 @@ const Menu = () => {
         }
         setCart(savedCart)
 
-    }, [foods])
+    }, [foods, input])
+    console.log(input);
     return (
         <>
-            <Header></Header>
+
             <Navbar className='py-5 mb-5' bg="white" variant="light">
                 <Nav className='mx-auto'>
                     <Nav.Link className=' active-link text-decoration-none me-4 text-dark fw-bold' onClick={handleBreakfast} >Breakfast</Nav.Link>
@@ -104,7 +109,7 @@ const Menu = () => {
                                 <h1 className='me-4'>${price}</h1>
                                 <div className='counter  px-3 py-2 d-flex flex-row align-items-center justify-content-evenly'>
                                     <button onClick={handleMinus} className='minus-btn'>-</button>
-                                    <input className='text-center' onChange={handleQuantity} ref={inputRef} type="number" value={inputValue} />
+                                    <input className='text-center bg-transparent' onChange={handleQuantity} ref={inputRef} type="number" value={inputValue} />
                                     <button onClick={() => setInputValue(inputValue + 1)} className='plus-btn'>+</button>
                                 </div>
                             </div>
@@ -166,6 +171,7 @@ const Menu = () => {
                 </Col>
                 <Col lg={6} className='text-center'>
                     <img width='75%' src={img} alt="" />
+                    <Button onClick={() => navigate('/order')} className='w-50 border-0 py-3 rounded-3 mt-5 fw-semibold'>Order review</Button>
                 </Col>
             </Row>
             <ToastContainer></ToastContainer>
