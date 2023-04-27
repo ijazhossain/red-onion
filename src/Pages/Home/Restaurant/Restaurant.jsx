@@ -3,7 +3,7 @@ import Breakfast from '../Breakfast/Breakfast';
 import Launch from '../Launch/Launch';
 import Dinner from '../Dinner/Dinner';
 
-import { Container, Nav, Navbar, Row } from 'react-bootstrap';
+import { Nav, Navbar, Row } from 'react-bootstrap';
 import './Restaurant.css'
 
 const Restaurant = () => {
