@@ -4,6 +4,8 @@ import Home from "../Pages/Home/Home/Home";
 import Breakfast from "../Pages/Home/Breakfast/Breakfast";
 import MenuLayout from "../layouts/MenuLayout";
 import Menu from "../Pages/Home/Menu/Menu/Menu";
+import OrderLayout from "../layouts/OrderLayout";
+import Order from "../Pages/Order/Order";
 
 const router = createBrowserRouter([
     {
@@ -13,6 +15,7 @@ const router = createBrowserRouter([
             {
                 path: '/',
                 element: <Home></Home>,
+                loader: () => fetch('/data.json')
             }
 
         ]
@@ -24,6 +27,17 @@ const router = createBrowserRouter([
             {
                 path: ':foodId',
                 element: <Menu></Menu>,
+                loader: () => fetch('/data.json')
+            }
+        ]
+    },
+    {
+        path: 'order',
+        element: <OrderLayout></OrderLayout>,
+        children: [
+            {
+                path: '/order',
+                element: <Order></Order>,
                 loader: () => fetch('/data.json')
             }
         ]

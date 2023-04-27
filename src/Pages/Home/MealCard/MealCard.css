@@ -2,3 +2,13 @@
     background-color: #e9be53 !important;
     border: none;
 }
+
+.food-card img {
+    width: 50%;
+    text-align: center;
+}
+
+.food-card:hover {
+    border-radius: 10px;
+    box-shadow: 0 0 35px 25px #f1f1f1;
+}

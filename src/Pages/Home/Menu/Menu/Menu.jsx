@@ -6,19 +6,20 @@ import { FaShoppingCart } from 'react-icons/fa';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import { addTODb, getCart } from '../../../../utilities/fakedb';
+import Header from '../../Shared/Header/Header';
 const Menu = () => {
-
     const [cart, setCart] = useState([])
     const [inputValue, setInputValue] = useState(1)
     const [breakfast, setBreakfast] = useState(true);
     const [launch, setLaunch] = useState(false);
     const [dinner, setDinner] = useState(false);
+
     const foods = useLoaderData();
     const { foodId } = useParams();
     const inputRef = useRef(1)
     const navigate = useNavigate()
-    let food = foods.find(item => item.id === foodId)
 
+    let food = foods.find(item => item.id === foodId)
     const { id, detail, img, name, price } = food;
 
     const handleBreakfast = () => {
@@ -83,9 +84,9 @@ const Menu = () => {
 
     }, [foods])
     return (
-        <div className=''>
-            <Navbar className='py-5' bg="white" variant="light">
-
+        <>
+            <Header></Header>
+            <Navbar className='py-5 mb-5' bg="white" variant="light">
                 <Nav className='mx-auto'>
                     <Nav.Link className=' active-link text-decoration-none me-4 text-dark fw-bold' onClick={handleBreakfast} >Breakfast</Nav.Link>
                     <Nav.Link className=' active-link text-decoration-none me-4 text-dark fw-bold' onClick={handleLaunch} >Launch</Nav.Link>
@@ -97,7 +98,7 @@ const Menu = () => {
                 <Col lg={6}>
                     <Row>
                         <Col>
-                            <h1>{name}</h1>
+                            <h1 className='mb-4'>{name}</h1>
                             <p style={{ color: "#686868" }} className="my-4 lh-lg">{detail}</p>
                             <div className='d-flex align-items-center w-50'>
                                 <h1 className='me-4'>${price}</h1>
@@ -115,7 +116,7 @@ const Menu = () => {
                     </Row>
                     <Row>
                         <Col>
-                            <div className='carousel-container mt-5'>
+                            <div className='carousel-container my-5 py-5'>
                                 <Carousel slide={false} interval={null} variant="dark">
                                     {
                                         breakfast && foods.slice(18, 21).map(food => <CarouselItem key={food.id}>
@@ -168,7 +169,7 @@ const Menu = () => {
                 </Col>
             </Row>
             <ToastContainer></ToastContainer>
-        </div>
+        </>
     );
 };
 

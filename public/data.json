@@ -2,144 +2,144 @@
     {
         "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
         "name": "Bagel and cream cheese",
-        "description": "How we dream about our future",
-        "price": 6.99,
+        "description": " A healthy and protein-packed breakfast option.",
+        "price": "6.99",
         "img": "https://i.ibb.co/p1tbs7R/breakfast1.png",
         "detail": " This meal is a staple of breakfast menus across America. The eggs are usually cooked to order, whether you prefer them scrambled, over-easy, sunny-side-up, or poached. The bacon or sausage is crispy and savory, and the hash browns or home fries are golden brown and crispy on the outside, tender on the inside. The toast or biscuit is typically served with butter and jam or honey. This breakfast is satisfying and hearty, perfect for starting your day off right."
     },
     {
         "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
         "name": "Breakfast sandwich",
-        "description": "How we dream about our future",
-        "price": 9.99,
+        "description": "A trendy and satisfying dish that's easy to make at home.",
+        "price": "9.99",
         "img": "https://i.ibb.co/VQKnkRz/breakfast2.png",
         "detail": " This classic breakfast dish is elegant and refined. The poached eggs are served on top of a toasted English muffin, which is topped with Canadian bacon or smoked salmon and hollandaise sauce. The dish is often garnished with fresh herbs, such as chives or parsley, which add a bright and fresh flavor to the dish. The eggs benedict is usually served with a side of hash browns or home fries, which add a crispy and savory contrast to the dish. This breakfast is luxurious and indulgent, perfect for a special occasion or a leisurely weekend morning."
     },
     {
         "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
         "name": "Eggs Benedict",
-        "description": "How we dream about our future",
-        "price": 10.99,
+        "description": " A delicious and classic breakfast favorite.",
+        "price": "10.99",
         "img": "https://i.ibb.co/PzWzjcp/breakfast3.png",
         "detail": "These waffles are light and fluffy, with a crispy exterior and a tender interior. They are often served with whipped cream and fresh berries, which add a tart and sweet contrast to the waffles' buttery flavor. The waffles are also often drizzled with maple syrup or honey, which complements their rich flavor. This breakfast is a decadent treat, perfect for a special occasion or a lazy Sunday morning."
     },
     {
         "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
         "name": "Eggs Benedict",
-        "description": "How we dream about our future",
-        "price": 8.99,
+        "description": "A savory and filling morning meal.",
+        "price": "8.99",
         "img": "https://i.ibb.co/SxxvtT2/breakfast4.png",
         "detail": " This traditional Mexican breakfast dish is spicy and savory. The fried or poached egg is served on top of a crispy corn tortilla, which is topped with a flavorful tomato sauce, refried beans, and melted cheese. The dish is often garnished with sliced avocado, sour cream, and salsa, which add creaminess, tanginess, and heat to the dish. This breakfast is hearty and satisfying, perfect for a day when you need a little extra energy."
     },
     {
         "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
         "name": "Toast Croissant Fried Egg",
-        "description": "How we dream about our future",
-        "price": 19.99,
+        "description": "A hearty and classic breakfast option.",
+        "price": "19.99",
         "img": "https://i.ibb.co/mCM5TTT/breakfast5.png",
         "detail": "This trendy breakfast dish has become a modern classic. The toast is usually made with a thick slice of hearty bread, such as sourdough or whole wheat. The mashed avocado is seasoned with salt and pepper, and sometimes lemon juice or chili flakes. The toast is often topped with additional ingredients, such as feta cheese, smoked salmon, or a poached egg, which add texture and flavor to the dish. This breakfast is healthy and delicious, perfect for a quick and easy meal on the go."
     },
     {
         "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
         "name": "Full Breakfast Fried Egg Toast Brunch",
-        "description": "How we dream about our future",
-        "price": 3.99,
+        "description": " A warm and comforting breakfast that's perfect for cold mornings.",
+        "price": "3.99",
         "img": "https://i.ibb.co/GHZPp8Q/breakfast6.png",
         "detail": " This breakfast dish is popular in many parts of the world, but especially in the Southwest United States. The burrito is usually made with a flour tortilla, which is filled with scrambled eggs, chorizo or bacon, potatoes, and cheese. The burrito is often served with salsa and sour cream on the side, which add flavor and heat to the dish. This breakfast is filling and satisfying, perfect for a day when you need a little extra fuel."
     },
     {
         "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
         "name": "Healthy Meal Plan",
-        "description": "How we dream about our future",
-        "price": 23.99,
+        "description": " A light and refreshing lunch option.",
+        "price": "23.99",
         "img": "https://i.ibb.co/5GBTQkc/lunch1.png",
         "detail": "This lunch option is perfect for those who want a satisfying and filling meal without feeling weighed down. The chicken breast is marinated in herbs and spices, then grilled to perfection. It's served on a soft roll or bun, which is toasted and brushed with garlic butter for added flavor. Lettuce, tomato, and mayonnaise are the classic toppings, but some variations may include additional toppings such as cheese, bacon, avocado, or barbecue sauce. This lunch option is easy to eat on the go, making it a popular choice for those with busy schedules."
     },
     {
         "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
         "name": "Fried Chicken Bento",
-        "description": "How we dream about our future",
-        "price": 9.99,
+        "description": " A classic deli-style sandwich that's both filling and healthy.",
+        "price": "9.99",
         "img": "https://i.ibb.co/72S44WL/lunch2.png",
         "detail": " This classic salad is a popular choice for those who want a light and healthy lunch option. The salad typically features crisp romaine lettuce tossed with Caesar dressing, which is made with ingredients like garlic, anchovy paste, Dijon mustard, and lemon juice. Croutons and Parmesan cheese are added for texture and flavor. Grilled chicken, shrimp, or salmon can be added for a protein boost, making this salad a complete and satisfying meal."
     },
     {
         "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da77",
         "name": "Tarragon Rubbed Salmon",
-        "description": "How we dream about our future",
-        "price": 8.99,
+        "description": "A comforting and classic combo that's perfect for a chilly day.",
+        "price": "8.99",
         "img": "https://i.ibb.co/CHHhM9k/lunch3.png",
         "detail": " This fresh and flavorful lunch option is perfect for those who want a taste of something different. The soft corn tortillas are filled with grilled or fried fish, which is usually seasoned with spices like cumin, chili powder, and paprika. Cabbage slaw adds crunch and freshness, while pico de gallo and a spicy aioli sauce add heat and flavor. A squeeze of fresh lime juice completes the dish, adding a tangy and bright flavor. This lunch option is perfect for those who want a taste of the beach, even if they're miles away from the ocean."
     },
     {
         "id": "ac44095f-230e-4502-8816-dea3eaae8320",
         "name": "Indian Launch",
-        "description": "How we dream about our future",
-        "price": 8.99,
+        "description": " A fresh and flavorful option for vegetarians.",
+        "price": "8.99",
         "img": "https://i.ibb.co/Fgv1Zjr/lunch4.png",
         "detail": "This lunch option is perfect for those who want a meatless alternative to the classic hamburger. The veggie burger is made with a patty made from vegetables, grains, and legumes, which is usually seasoned with herbs and spices to add flavor. It's served on a bun with lettuce, tomato, and condiments such as ketchup, mustard, or mayonnaise. Some variations may include additional toppings such as avocado, cheese, or caramelized onions. This lunch option is perfect for vegetarians or vegans, but it's also a great choice for those who want to try something different."
     },
     {
         "id": "d0803f97-966f-4296-ad31-a7f70fc86fab",
         "name": "Beef Steak",
-        "description": "How we dream about our future",
-        "price": 15.99,
+        "description": "A classic and indulgent lunch choice.",
+        "price": "15.99",
         "img": "https://i.ibb.co/Ns56mns/lunch5.png",
         "detail": "This lunch option is perfect for those who want a taste of Japanese cuisine. The bento box typically includes a variety of small portions of different foods such as rice, grilled or fried meat or fish, vegetables, and pickles. Some variations may include sushi rolls or tempura. This meal is often presented in a compartmentalized box for easy portability. The bento box is a great lunch option for those who want a variety of flavors and textures in one meal."
     },
     {
         "id": "8a5b4a9c-76ea-4fbb-9c70-9548de4eab01",
-        "name": "Honey Soy Glazed Salmon With Peppers",
+        "name": " A light and refreshing salad with a tangy dressing.",
         "description": "How we dream about our future",
-        "price": 7.99,
+        "price": "7.99",
         "img": "https://i.ibb.co/XYSzJFF/lunch6.png",
         "detail": " This Italian-inspired lunch option is perfect for those who want a hearty and filling meal. The dish features a variety of fresh, seasonal vegetables, such as zucchini, bell peppers, and cherry tomatoes, sautéed in olive oil and garlic. The vegetables are then served over a bed of pasta, which is usually tossed with Parmesan cheese and herbs like basil and parsley. This lunch option is perfect for those who want to indulge in a satisfying and flavorful meal without feeling guilty."
     },
     {
         "id": "b357e19b-4dd9-4fc7-b5c0-9ed5255464ba",
         "name": "Salmon with Grapefruit and Lentil Salad",
-        "description": "How we dream about our future",
-        "price": 9.99,
+        "description": " A healthy and delicious dinner option.",
+        "price": "9.99",
         "img": "https://i.ibb.co/9V7BfL5/dinner1.png",
         "detail": "This Russian-inspired dinner option features tender strips of beef, which are cooked in a creamy and flavorful sauce made with sour cream, onions, and mushrooms. The sauce is often seasoned with herbs such as thyme, parsley, and bay leaves, which gives it a rich and comforting flavor. It's served with a side of egg noodles or mashed potatoes, which are perfect for soaking up the sauce. This dinner option is perfect for those who want a hearty and comforting meal, especially on a cold winter night."
     },
     {
         "id": "e4220958-06d2-4d50-96fa-0163a563f43d",
         "name": "Lemony Salmon Piccata",
-        "description": "How we dream about our future",
-        "price": 10.99,
+        "description": " A classic Italian dish that's both filling and satisfying.",
+        "price": "10.99",
         "img": "https://i.ibb.co/h2YdTNQ/dinner2.png",
         "detail": "This classic dinner option is perfect for meat lovers. The steak is usually a prime cut of beef, such as ribeye, sirloin, or filet mignon, which is seasoned with a blend of herbs and spices and grilled to perfection. The steak can be cooked to your desired level of doneness, from rare to well-done. It's often served with a side of roasted vegetables or a baked potato, and can be topped with garlic butter, sautéed mushrooms, or a red wine reduction sauce for added flavor. This dinner option is hearty and satisfying, making it a popular choice for those who want a filling meal."
     },
     {
         "id": "ae69f0e4-559c-4b24-8032-80b63f9b5073",
         "name": "Pork Tenderloin with Quinoa Pilaf",
-        "description": "How we dream about our future",
-        "price": 12.99,
+        "description": "A quick and easy Asian-inspired meal.",
+        "price": "12.99",
         "img": "https://i.ibb.co/QfYNqqh/dinner3.png",
         "detail": " This dinner option is perfect for those who love seafood. The platter typically includes a variety of fresh seafood such as shrimp, scallops, lobster, and fish, prepared in different ways such as grilled, fried, or sautéed. The seafood is often seasoned with herbs and spices to enhance its natural flavor. It's served with a side of vegetables or rice, and can be accompanied by sauces such as cocktail sauce, tartar sauce, or garlic butter. This dinner option is perfect for those who want to indulge in a variety of seafood flavors in one meal."
     },
     {
         "id": "dbf7ab3f-b383-4d95-8ab7-f55fcf6fa5f2",
         "name": "French fries with cheese",
-        "description": "How we dream about our future",
-        "price": 8.99,
+        "description": "A delicious and comforting vegetarian dinner option.",
+        "price": "8.99",
         "img": "https://i.ibb.co/Ryp2JBM/dinner4.png",
         "detail": " This Italian-inspired dinner option features a breaded and pan-fried chicken breast, which is topped with marinara sauce and melted mozzarella cheese. It's served with a side of pasta, which is usually tossed with garlic and olive oil. The chicken is often seasoned with herbs such as basil, oregano, and thyme to add flavor. This dinner option is perfect for those who want a satisfying and flavorful Italian meal."
     },
     {
         "id": "ed6a7ac3-7e67-4e3f-8461-bceb5178be42",
         "name": "Garlic Butter Baked Salmon",
-        "description": "How we dream about our future",
-        "price": 6.99,
+        "description": " A zesty and flavorful seafood dish.",
+        "price": "6.99",
         "img": "https://i.ibb.co/hynGFKr/dinner5.png",
         "detail": " This dinner option is perfect for vegetarians and those who want to try something different. The curry usually includes a variety of vegetables such as cauliflower, potatoes, carrots, and chickpeas, simmered in a fragrant and flavorful curry sauce. The sauce is often made with a blend of spices such as cumin, coriander, turmeric, and ginger, which gives it a unique and complex flavor. It's served with a side of rice or naan bread, which is perfect for soaking up the sauce. This dinner option is perfect for those who want to explore different cultures and flavors."
     },
     {
         "id": "fd52819a-cb78-4510-ad2f-c5bdd888ae78",
         "name": "Baked Chicken",
-        "description": "How we dream about our future",
-        "price": 9.99,
+        "description": " A classic and comforting dinner choice.",
+        "price": "9.99",
         "img": "https://i.ibb.co/YcPX2Pp/dinner6.png",
         "detail": " This healthy dinner option is perfect for those who want a lighter meal. The salmon fillet is usually seasoned with herbs such as dill, lemon, and garlic, which enhances its natural flavor. It's grilled to perfection, so that the skin is crispy and the flesh is moist and tender. It's served with a side of roasted vegetables or quinoa salad, which adds texture and flavor to the meal. This dinner option is perfect for those who want a nutritious and delicious meal."
     },
@@ -148,7 +148,7 @@
         "name": "Light Breakfast",
         "img": "https://i.ibb.co/p1tbs7R/breakfast1.png",
         "img2": "https://i.ibb.co/VQKnkRz/breakfast2.png",
-        "price": 55,
+        "price": "55",
         "detail": "This breakfast combo is a classic for a reason - it's hearty and satisfying, and it includes all of the breakfast staples that many people love. The combo includes two eggs (cooked any style), two strips of bacon or sausage links, and a side of toast or English muffin. The eggs are a great source of protein, and you can have them cooked to your liking - scrambled, fried, poached, or boiled. The bacon or sausage adds a savory flavor, and the toast or English muffin provides a nice crunch and a way to soak up the yolk from the eggs. This breakfast combo is perfect for those who love traditional breakfast foods and want a filling meal to start their day."
     },
     {
@@ -156,7 +156,7 @@
         "name": "Classic Breakfast",
         "img": "https://i.ibb.co/PzWzjcp/breakfast3.png",
         "img2": "https://i.ibb.co/SxxvtT2/breakfast4.png",
-        "price": 45,
+        "price": "45",
         "detail": " If you have a sweet tooth, this breakfast combo is for you. It includes two fluffy pancakes, two eggs (cooked any style), and two strips of bacon or sausage links. The pancakes are the star of the show here - they're light, fluffy, and delicious. You can add butter and syrup to them to make them even more indulgent. The eggs and bacon/sausage provide a nice balance of protein and savory flavor to offset the sweetness of the pancakes. This breakfast combo is perfect for those who love a sweet breakfast or want to indulge in a decadent morning meal."
     },
     {
@@ -164,7 +164,7 @@
         "name": "Healthy Breakfast",
         "img": "https://i.ibb.co/mCM5TTT/breakfast5.png",
         "img2": "https://i.ibb.co/GHZPp8Q/breakfast6.png",
-        "price": 65,
+        "price": "65",
         "detail": "This breakfast combo is great for those who want a nutritious breakfast that's also delicious. It includes a vegetable omelet made with spinach, mushrooms, onions, and peppers, a side of fresh fruit, and whole grain toast. The omelet is a great source of protein and nutrients, and the vegetables provide vitamins and minerals. The fresh fruit is a great source of natural sweetness and vitamins, and the whole grain toast is a great source of fiber. This breakfast combo is perfect for those who are health-conscious and want a satisfying meal that will fuel them for the day ahead."
     },
     {
@@ -172,7 +172,7 @@
         "name": "Regular Launch",
         "img": "https://i.ibb.co/5GBTQkc/lunch1.png",
         "img2": "https://i.ibb.co/72S44WL/lunch2.png",
-        "price": 75,
+        "price": "75",
         "detail": "This lunch combo is a classic option that's perfect for those who want a simple and satisfying meal. The sandwich is the star of the show here - you can choose from a variety of options such as turkey and cheese, ham and Swiss, or a vegetarian option like hummus and veggies. The sandwich is served with a side of chips or fries, which provide a nice crunch and some carbs to the meal. You can also choose from a variety of drinks to wash it all down, such as soda, iced tea, or lemonade. This lunch combo is great for those who want a quick and easy lunch that will fill them up and keep them going."
     },
     {
@@ -180,7 +180,7 @@
         "name": "Classic Launch",
         "img": "https://i.ibb.co/CHHhM9k/lunch3.png",
         "img2": "https://i.ibb.co/Fgv1Zjr/lunch4.png",
-        "price": 65,
+        "price": "65",
         "detail": "This lunch combo is a healthier option that's perfect for those who want a nutritious and satisfying meal. The salad is the main attraction here - you can choose from a variety of options such as a Caesar salad, a Cobb salad, or a Greek salad. The salads are made with fresh, crisp greens and a variety of toppings such as grilled chicken, croutons, and cheese. The salad is served with a side of bread or crackers, which provide some carbs to the meal. You can also choose from a variety of drinks to accompany your salad, such as water, juice, or a fruit smoothie. This lunch combo is great for those who want a light and refreshing lunch that will give them the energy they need to power through the afternoon."
     },
     {
@@ -188,7 +188,7 @@
         "name": "Delight Launch",
         "img": "https://i.ibb.co/Ns56mns/lunch5.png",
         "img2": "https://i.ibb.co/XYSzJFF/lunch6.png",
-        "price": 75,
+        "price": "75",
         "detail": " This lunch combo is a filling and satisfying option that's perfect for those who want a hearty meal. The pasta dish is the centerpiece of this combo - you can choose from a variety of options such as spaghetti with meatballs, fettuccine Alfredo, or a vegetarian pasta dish. The pasta dishes are made with fresh, flavorful ingredients and served hot and steaming. The pasta is served with a side of garlic bread, which adds some flavor and carbs to the meal. You can also choose from a variety of drinks to accompany your pasta dish, such as soda, beer, or wine. This lunch combo is great for those who want a comforting and filling meal that will keep them satisfied for hours."
     },
     {
@@ -196,7 +196,7 @@
         "name": "The Stake Combo",
         "img": "https://i.ibb.co/9V7BfL5/dinner1.png",
         "img2": "https://i.ibb.co/h2YdTNQ/dinner2.png",
-        "price": 85,
+        "price": "85",
         "detail": "This dinner combo is a classic option that's perfect for meat lovers. The star of the show is a juicy, grilled steak that's cooked to your liking. The steak is made from high-quality beef that's seasoned with herbs and spices to enhance its natural flavors. It's then grilled to perfection, resulting in a tender and flavorful piece of meat that's sure to satisfy your taste buds. The steak is served with a side of creamy mashed potatoes and rich gravy, which provides a comforting and satisfying contrast to the meat. You can also choose from a variety of drinks to accompany your steak, such as a full-bodied red wine, a crisp beer, or a refreshing soft drink."
     },
     {
@@ -204,7 +204,7 @@
         "name": "The Sea Food Combo",
         "img": "https://i.ibb.co/QfYNqqh/dinner3.png",
         "img2": "https://i.ibb.co/Ryp2JBM/dinner4.png",
-        "price": 60,
+        "price": "60",
         "detail": "This dinner combo is a fresh and flavorful option that's perfect for seafood lovers. The main attraction here is a seafood dish such as grilled salmon or shrimp scampi. The seafood is made from high-quality ingredients that are cooked to perfection, resulting in a dish that's bursting with flavor and nutrients. The seafood is served with a side of fragrant rice pilaf and crispy vegetables, which provides some healthy carbohydrates and nutrients to the meal. You can also choose from a variety of drinks to accompany your seafood dish, such as a crisp white wine, a sparkling water, or a fruity cocktail."
     },
     {
@@ -212,7 +212,7 @@
         "name": "Night Dine",
         "img": "https://i.ibb.co/hynGFKr/dinner5.png",
         "img2": "https://i.ibb.co/YcPX2Pp/dinner6.png",
-        "price": 55,
+        "price": "55",
         "detail": "This dinner combo is a classic and comforting option that's perfect for carb-lovers. The star of the show here is a pasta dish such as spaghetti with meatballs or fettuccine Alfredo. The pasta is made from high-quality ingredients that are cooked to perfection, resulting in a dish that's both filling and satisfying. The pasta is served with a side of garlic bread or a fresh Caesar salad, which provides some extra flavor and texture to the meal. You can also choose from a variety of drinks to accompany your pasta dish, such as a robust red wine, a refreshing beer, or a classic soft drink."
     }
 ]
